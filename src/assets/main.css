@@ -1,0 +1,10 @@
+/* @import './base.css'; */
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap');
+:root{
+  --mainGreen : #01a501 ;
+  --mainOrange : #FF6D59 ;
+  --secondGreen : #41AB55 ;
+  --fontLogo : "Playfair", serif;
+  --fontLogo-2 : "Afacad Flux", serif;
+}
