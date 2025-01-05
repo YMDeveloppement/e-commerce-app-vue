@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+###{ versions
+node v21.2.0
+npm npm@10.2.3
